@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1989c67a-59d3-44d0-b617-473314fdae6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201812/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201903/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201903/CalculateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201903/Calcute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201903/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201903/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/ouc/test/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201803/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201809/BuyVegetables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201809/SaleVegetables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201809/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201812/XiaoMing01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201812/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201909/Apple2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201909/apple2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CCF.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CCF.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCF/cn/ouc/ccf201812/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CCF/cn/ouc/ccf201812/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/ouc/ccf201812/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/ouc/ccf201812/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +69,26 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201903.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Apple2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201909.Apple2" />
       <module name="CCF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ouc.ccf201903.*" />
+          <option name="PATTERN" value="cn.ouc.ccf201909.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuyVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201809.BuyVegetables" />
+      <module name="CCF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ouc.ccf201809.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +110,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201909.Main" />
+      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201803.Main" />
       <module name="CCF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ouc.ccf201909.Commodity" />
+          <option name="PATTERN" value="cn.ouc.ccf201803.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,42 +122,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201903.Test1" />
+    <configuration name="SaleVegetables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201809.SaleVegetables" />
       <module name="CCF" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.ouc.ccf201903.*" />
+          <option name="PATTERN" value="cn.ouc.ccf201809.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculateTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CCF" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.ouc.ccf201903.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.ouc.ccf201903" />
-      <option name="MAIN_CLASS_NAME" value="cn.ouc.ccf201903.CalculateTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="JUnit.CalculateTest.add" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Apple2" />
+        <item itemvalue="Application.BuyVegetables" />
+        <item itemvalue="Application.SaleVegetables" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +167,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575854566372</updated>
-      <workItem from="1575854569849" duration="44425000" />
+      <workItem from="1575854569849" duration="53183000" />
+      <workItem from="1576115475590" duration="8851000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1575854840222</created>
@@ -193,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575890781671</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1575984426216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575984426216</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,18 +218,18 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="92" y="92" width="1176" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575958550142" />
-    <state x="485" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1575858950140">
+    <state x="485" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1576136874031">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="485" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575858950140" />
+    <state x="485" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576136874031" />
     <state x="284" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575880455956">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="284" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575880455956" />
-    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1575890780867">
+    <state x="292" y="0" key="CommitChangelistDialog2" timestamp="1576139696134">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575890780867" />
+    <state x="292" y="0" key="CommitChangelistDialog2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576139696134" />
     <state x="92" y="92" width="1176" height="584" key="DiffContextDialog" timestamp="1575855879507">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -233,46 +238,50 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="460" y="128" key="FileChooserDialogImpl/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575854796581" />
-    <state width="1317" height="130" key="GridCell.Tab.0.bottom" timestamp="1575984202569">
+    <state width="1317" height="168" key="GridCell.Tab.0.bottom" timestamp="1576139699205">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="130" key="GridCell.Tab.0.bottom/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575984202569" />
-    <state width="1317" height="130" key="GridCell.Tab.0.center" timestamp="1575984202569">
+    <state width="1317" height="168" key="GridCell.Tab.0.bottom/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576139699205" />
+    <state width="1317" height="168" key="GridCell.Tab.0.center" timestamp="1576139699205">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="130" key="GridCell.Tab.0.center/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575984202569" />
-    <state width="1317" height="130" key="GridCell.Tab.0.left" timestamp="1575984202569">
+    <state width="1317" height="168" key="GridCell.Tab.0.center/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576139699205" />
+    <state width="1317" height="168" key="GridCell.Tab.0.left" timestamp="1576139699205">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="130" key="GridCell.Tab.0.left/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575984202569" />
-    <state width="1317" height="130" key="GridCell.Tab.0.right" timestamp="1575984202569">
+    <state width="1317" height="168" key="GridCell.Tab.0.left/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576139699205" />
+    <state width="1317" height="168" key="GridCell.Tab.0.right" timestamp="1576139699205">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="130" key="GridCell.Tab.0.right/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575984202569" />
-    <state width="1317" height="243" key="GridCell.Tab.1.bottom" timestamp="1575958694989">
+    <state width="1317" height="168" key="GridCell.Tab.0.right/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576139699205" />
+    <state width="1317" height="80" key="GridCell.Tab.1.bottom" timestamp="1576034058144">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="243" key="GridCell.Tab.1.bottom/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575958694989" />
-    <state width="1317" height="243" key="GridCell.Tab.1.center" timestamp="1575958694989">
+    <state width="1317" height="80" key="GridCell.Tab.1.bottom/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576034058144" />
+    <state width="1317" height="80" key="GridCell.Tab.1.center" timestamp="1576034058144">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="243" key="GridCell.Tab.1.center/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575958694989" />
-    <state width="1317" height="243" key="GridCell.Tab.1.left" timestamp="1575958694989">
+    <state width="1317" height="80" key="GridCell.Tab.1.center/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576034058144" />
+    <state width="1317" height="80" key="GridCell.Tab.1.left" timestamp="1576034058144">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="243" key="GridCell.Tab.1.left/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575958694989" />
-    <state width="1317" height="243" key="GridCell.Tab.1.right" timestamp="1575958694989">
+    <state width="1317" height="80" key="GridCell.Tab.1.left/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576034058144" />
+    <state width="1317" height="80" key="GridCell.Tab.1.right" timestamp="1576034058144">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="243" key="GridCell.Tab.1.right/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575958694989" />
+    <state width="1317" height="80" key="GridCell.Tab.1.right/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576034058144" />
     <state x="183" y="29" key="SettingsEditor" timestamp="1575858778990">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="183" y="29" key="SettingsEditor/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575858778990" />
-    <state x="272" y="120" key="Vcs.Push.Dialog.v2" timestamp="1575890782948">
+    <state x="272" y="120" key="Vcs.Push.Dialog.v2" timestamp="1575984427880">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="272" y="120" key="Vcs.Push.Dialog.v2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575890782948" />
+    <state x="272" y="120" key="Vcs.Push.Dialog.v2/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575984427880" />
+    <state x="372" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1576115488480">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="372" y="211" key="com.intellij.ide.util.TipDialog/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1576115488480" />
     <state x="379" y="285" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575945405165">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -285,5 +294,16 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1360.768/-1360.85.1360.768@0.0.1360.768" timestamp="1575951389991" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/ouc/ccf201809/BuyVegetables.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
